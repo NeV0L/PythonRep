@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T18:48:09.584Z" agent="5.0 (Windows)" etag="s1V9tdTppQT67wzKyFEp" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T18:49:49.220Z" agent="5.0 (Windows)" etag="XkqQJXxe8mLVnUtB1vyi" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1920" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,14 +246,14 @@
         <mxCell id="gDLpK6TSpOvwfwhDC33x-72" value="&lt;div&gt;PgBouncer 1&lt;/div&gt;&lt;div&gt;PgBouncer 2&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;PgBouncer N&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1310" y="300" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gDLpK6TSpOvwfwhDC33x-73" value="&lt;div&gt;PostgreSQL Master&lt;/div&gt;&lt;div&gt;Patroni&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1635" y="300" width="250" height="130" as="geometry" />
+        <mxCell id="gDLpK6TSpOvwfwhDC33x-76" value="ClickHouse" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=15;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1375" y="450" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gDLpK6TSpOvwfwhDC33x-74" value="&lt;div&gt;PostgreSQL Replica&lt;br&gt;&lt;/div&gt;&lt;div&gt;Patroni&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1970" y="300" width="250" height="130" as="geometry" />
+        <mxCell id="gDLpK6TSpOvwfwhDC33x-77" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;PostgreSQL Replica&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Patroni&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=15;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1930" y="305" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gDLpK6TSpOvwfwhDC33x-75" value="ClickHouse" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1310" y="460" width="250" height="100" as="geometry" />
+        <mxCell id="gDLpK6TSpOvwfwhDC33x-78" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;PostgreSQL Master&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Patroni&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=28;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1690" y="315" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
