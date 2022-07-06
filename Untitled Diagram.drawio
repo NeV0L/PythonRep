@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T10:33:13.941Z" agent="5.0 (Windows)" etag="9zOh7EnQdauyu6wJVIqX" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T20:43:52.136Z" agent="5.0 (Windows)" etag="NYPq0TutHdE3LiopozkD" version="20.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1745" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -61,10 +61,10 @@
           <mxGeometry x="1730" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDLpK6TSpOvwfwhDC33x-30" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1270" y="915" width="910" height="370" as="geometry" />
+          <mxGeometry x="1270" y="875" width="910" height="335" as="geometry" />
         </mxCell>
         <mxCell id="gDLpK6TSpOvwfwhDC33x-31" value="Уровень АСУТП" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=1;glass=0;sketch=0;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1695" y="930" width="60" height="30" as="geometry" />
+          <mxGeometry x="1695" y="895" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDLpK6TSpOvwfwhDC33x-32" value="Управления конфигурациями" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=1;glass=0;sketch=0;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="935" y="1550" width="60" height="30" as="geometry" />
@@ -231,8 +231,8 @@
         <mxCell id="gDLpK6TSpOvwfwhDC33x-67" value="&lt;div&gt;Управление лицензиями&lt;br&gt;&lt;/div&gt;&lt;div&gt;Управление конфигурациями&lt;/div&gt;&lt;div&gt;Управление серверами&lt;/div&gt;&lt;div&gt;Управление БД&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="1620" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gDLpK6TSpOvwfwhDC33x-68" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=28;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1645" y="1010" width="160" height="90" as="geometry" />
+        <mxCell id="gDLpK6TSpOvwfwhDC33x-68" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Alpha.Server&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Alpha.Historian&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=15;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1645" y="940" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gDLpK6TSpOvwfwhDC33x-69" value="Alpha.AccessPoint" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=28;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1420" y="1045" width="60" height="30" as="geometry" />
@@ -255,11 +255,17 @@
         <mxCell id="gDLpK6TSpOvwfwhDC33x-78" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;PostgreSQL Master&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Patroni&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=28;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1700" y="300" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="8g4FdHFZHCjIreMOk2HH-0" value="ClickHouse" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=15;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8g4FdHFZHCjIreMOk2HH-0" value="ClickHouse" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=15;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1930" y="455" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="8g4FdHFZHCjIreMOk2HH-1" value="&lt;div&gt;PgBouncer 1&lt;/div&gt;&lt;div&gt;PgBouncer 2&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;PgBouncer N&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8g4FdHFZHCjIreMOk2HH-1" value="&lt;div&gt;PgBouncer 1&lt;/div&gt;&lt;div&gt;PgBouncer 2&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;PgBouncer N&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1310" y="450" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rEMFI3EUYSJLTGk0rbrX-0" value="&lt;div&gt;Grafana&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Prometheus&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;spacing=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1170" y="1620" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rEMFI3EUYSJLTGk0rbrX-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Alpha.Server&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Alpha.Historian&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=15;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1645" y="1090" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
