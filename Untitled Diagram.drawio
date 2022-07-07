@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T11:04:30.019Z" agent="5.0 (Windows)" etag="u9GDKNNrv86Iws97htLh" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T12:09:07.983Z" agent="5.0 (Windows)" etag="_dH-Y_IcCcQJ-yhFgauS" version="20.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2556" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -66,7 +66,7 @@
         <mxCell id="gDLpK6TSpOvwfwhDC33x-32" value="Управления конфигурациями" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=1;glass=0;sketch=0;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="935" y="1550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gDLpK6TSpOvwfwhDC33x-34" value="&lt;div&gt;BaseServer 1&lt;/div&gt;&lt;div&gt;BaseServer 2&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;BaseServer N&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="gDLpK6TSpOvwfwhDC33x-34" value="&lt;div&gt;ПК ДП. Базовый сервер 1&lt;/div&gt;&lt;div&gt;ПК ДП. Базовый сервер 2&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;ПК ДП. Базовый сервер N&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="300" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gDLpK6TSpOvwfwhDC33x-35" value="&lt;div&gt;ComputationServer 1&lt;/div&gt;&lt;div&gt;ComputationServer 2&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;ComputationServer N&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
