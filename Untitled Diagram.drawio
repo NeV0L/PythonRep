@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T09:36:45.897Z" agent="5.0 (Windows)" etag="2bh2DnY80cwkLko5ctVU" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T18:47:06.373Z" agent="5.0 (Windows)" etag="vHmCKk0yqBkD_BS1FnJu" version="20.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1597" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2720" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gDLpK6TSpOvwfwhDC33x-7" value="" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;sketch=0;glass=0;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" y="30" width="1905" height="2140" as="geometry" />
+          <mxGeometry x="460" y="30" width="1740" height="1840" as="geometry" />
         </mxCell>
         <mxCell id="gDLpK6TSpOvwfwhDC33x-10" value="Клиентская часть" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="185" y="925" width="60" height="30" as="geometry" />
@@ -157,7 +157,7 @@
         <mxCell id="gDLpK6TSpOvwfwhDC33x-66" value="Конфигуратор ДП" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=1;glass=0;sketch=0;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="605" y="1550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gDLpK6TSpOvwfwhDC33x-67" value="&lt;div&gt;Управление лицензиями&lt;br&gt;&lt;/div&gt;&lt;div&gt;Управление конфигурациями&lt;/div&gt;&lt;div&gt;Управление серверами&lt;/div&gt;&lt;div&gt;Управление БД&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="gDLpK6TSpOvwfwhDC33x-67" value="Управление серверами&lt;br&gt;Управление лицензиями&lt;br&gt;Подсистема самодиагностики&lt;br&gt;Подсистема безопасности&lt;br&gt;Подсистема журналирования&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=15;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="1620" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gDLpK6TSpOvwfwhDC33x-68" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Alpha.Server&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Alpha.Historian&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=15;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -252,9 +252,9 @@
             <mxPoint x="1222.75" y="1130.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8NyhkivdvPIuCl_j7b4C-21" value="&lt;div&gt;Временные ряды&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;rotation=-45;labelBackgroundColor=none;" parent="8NyhkivdvPIuCl_j7b4C-14" vertex="1" connectable="0">
+        <mxCell id="8NyhkivdvPIuCl_j7b4C-21" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Временные ряды&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;(TimeSeries)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;rotation=-45;labelBackgroundColor=none;" parent="8NyhkivdvPIuCl_j7b4C-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1454" y="-1" relative="1" as="geometry">
-            <mxPoint x="-46" y="31" as="offset" />
+            <mxPoint x="-46" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8NyhkivdvPIuCl_j7b4C-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;fontSize=28;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8g4FdHFZHCjIreMOk2HH-0" target="gDLpK6TSpOvwfwhDC33x-76" edge="1">
